@@ -260,6 +260,10 @@ button {
 .insta-icon-view {
   display: flex;
   border-radius: 50%;
+  background-color: #4d5ae5;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
 }
 .endli {
   margin-right: 0;
