@@ -172,6 +172,11 @@ button {
 .menu-link-link:focus {
   color: #404bbf;
 }
+/*====Information section====*/
+
+.tech-icons-form {
+  display: flex;
+}
 
 /*HERO*/
 .hero-section {
