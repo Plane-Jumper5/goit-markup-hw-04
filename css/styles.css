@@ -265,6 +265,9 @@ button {
   justify-content: center;
   height: 100%;
 }
+.social-list-icon {
+  fill: #f4f4fd;
+}
 .endli {
   margin-right: 0;
 }
