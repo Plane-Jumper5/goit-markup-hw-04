@@ -341,6 +341,11 @@ button {
   padding-left: 68px;
   padding-right: 68px;
 }
+.social-networks {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
 /*====Our Portfolio====*/
 .section-portfolio {
   font-family: "Roboto", sans-serif;
