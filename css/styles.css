@@ -577,6 +577,9 @@ button {
   display: flex;
   align-items: baseline;
 }
+.footer-social {
+  margin-right: 120px;
+}
 .end {
   padding: 100px 0;
 }
