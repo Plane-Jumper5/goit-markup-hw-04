@@ -574,6 +574,7 @@ button {
 .general-footer-container {
   height: 312px;
   padding: 100px 0;
+  display: flex;
 }
 .end {
   padding: 100px 0;
