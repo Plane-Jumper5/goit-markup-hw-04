@@ -577,8 +577,10 @@ button {
   display: flex;
   align-items: baseline;
 }
-.footer-social {
+.footer-logo {
   margin-right: 120px;
+}
+.footer-social-icons {
 }
 .end {
   padding: 100px 0;
