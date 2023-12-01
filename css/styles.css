@@ -591,6 +591,10 @@ button {
   letter-spacing: 0.02em;
   margin-bottom: 16px;
 }
+.footer-social-icons-form {
+  display: flex;
+  gap: 16px;
+}
 .end {
   padding: 100px 0;
 }
