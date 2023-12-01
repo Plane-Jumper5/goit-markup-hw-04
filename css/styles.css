@@ -269,6 +269,10 @@ button {
 .social-list-icon {
   fill: #f4f4fd;
 }
+.insta-icon-view:hover,
+.insta-icon-view:focus {
+  background-color: #404bbf;
+}
 .endli {
   margin-right: 0;
 }
