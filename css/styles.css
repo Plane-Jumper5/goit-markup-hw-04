@@ -577,11 +577,11 @@ button {
   display: flex;
   align-items: baseline;
 }
-.footer-logo {
+
+.footer-social-icons {
   margin-right: 120px;
 }
-.footer-social-icons {
-}
+
 .end {
   padding: 100px 0;
 }
