@@ -634,3 +634,7 @@ button {
   width: 40px;
   height: 40px;
 }
+.footer-icon-view:hover,
+.footer-icon-view:focus {
+  background-color: #31d0aa;
+}
