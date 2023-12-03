@@ -160,7 +160,6 @@ button {
   padding-top: 24px;
   padding-bottom: 24px;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  color: #404bbf;
 }
 
 .logo-link:hover,
@@ -197,6 +196,7 @@ button {
   background-color: #f4f4fd;
   border-radius: 4px;
   margin-bottom: 8px;
+  border: 1px solid #000;
 }
 
 /*HERO*/
@@ -374,7 +374,7 @@ button {
   padding-top: 4px;
   padding-bottom: 32px;
   padding-left: 68px;
-  padding-right: 68px;
+  padding-right: 16px;
 }
 .social-networks {
   display: flex;
