@@ -115,6 +115,7 @@ button {
 }
 
 /*Header*/
+
 .page-head {
   border-bottom: 1px solid #e7e9fc;
 }
@@ -128,7 +129,15 @@ button {
   color: #434455;
   width: calc((100% - 3 * 24px) / 4);
 }
-
+.menu-item::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  height: 4px;
+  background-color: #404bbf;
+  border-radius: 2px;
+}
 .menu-item:hover,
 .menu-item:focus {
   color: #404bbf;
